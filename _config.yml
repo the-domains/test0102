@@ -1,0 +1,28 @@
+name: test0102
+favicon: null
+layout_spectrum: 0.7251757136546075
+typography_spectrum: 0.25768977077677846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7006020513363183
+  lightness: 0.9902122276835144
+  saturation: 0.19042729469947517
+  rhythmicContrast: 0.7189488434232771
+purpose: []
